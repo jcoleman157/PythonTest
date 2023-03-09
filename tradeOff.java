@@ -12,7 +12,7 @@ public class tradeOff {
         long line = getLineNum();
         for(int i = 0; i <= line; i++){
             if(i % 3 == 1){
-                
+
             }
         }
     }
@@ -28,3 +28,4 @@ public class tradeOff {
         return line;
     }
 }
+
